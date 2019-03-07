@@ -1,0 +1,8 @@
+repo:             deseq-workshop-2
+site_name:        "Differential Expression Analysis Using Bioconductor Workshop"
+authors:      
+  - name: Andrew Leith
+  - name: Levi Waldron
+site_description: "This workshop is designed to introduce the process of differential expression and ontology analysis in an RNA-seq analysis workflow.  It is the second part of a series of two workshops that combine to form the full analysis workflow."
+docs_url:         https://compbiocore.github.io/deseq-workshop-2
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
