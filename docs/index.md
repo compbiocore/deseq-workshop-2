@@ -1,7 +1,7 @@
 # Brown CBC's DEseq Workshop 2 Materials
 
 [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://compbiocore.github.io/deseq-workshop-2)
-[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/compbiocore/deseq-workshop-1/tree/master/docs/src/notebooks)
+[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/compbiocore/deseq-workshop-2/tree/master/docs/src/notebooks)
 [![License](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/compbiocore/deseq-workshop-2/master/LICENSE)
 
 ### Workshop Topics
